@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laurawillson
-- 👀 I’m interested in front end design and UI/UX design.
-- 🌱 I’m currently learning UI/UX design.
+- 👀 I’m interested in UI/UX design and front end design.
+- 🌱 I’m currently learning and pursuing UI/UX design.
 - 📫 How to reach me: laura.willson.designer@gmail.com
 
 <!---
